@@ -1,0 +1,20 @@
+algoritmo de permutacion aleatoria 
+
+n! permutaciones
+
+tomo el ultimo elemento , y genero una posicion aleatoria entre 1 y n 
+y intercambio el numero de la posicion generada por la posicion del ultimo elemento 
+y nos movemos al elemento n-1 
+y se repite hasta llegar al primer elemento
+
+ej revolver cartas 
+
+
+tarea : 
+juego black jack
+con mi estrategia de juegos
+y hacerlo jugar n veces
+
+
+
+

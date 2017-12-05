@@ -1,0 +1,20 @@
+aceptacion y rechazo 
+	ejemplo : 
+		n = 10
+
+		qj = 1/10  j= 1...10
+		P(Y=j) = 1/10 = qj
+
+
+		pj/qj = 10pj <= 1.2
+
+
+
+algoritmo:
+	generar Y
+	generar U
+	while(u>py/cqy)
+		generar Y
+		generar U
+
+	x=Y	
